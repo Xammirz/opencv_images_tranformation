@@ -4,7 +4,6 @@ import telebot
 from telebot import types
 import photo_tranformation
 
-
 bot = telebot.TeleBot('5088098690:AAEnGRbJa9FIu31avmqF3MtleUeVVN1ws_o')
 buttons_photo_pix = {'64_64p': '64_im', '128_128p':'128_im',
             '256_256p': '256_im'}
